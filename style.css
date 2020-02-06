@@ -1,0 +1,111 @@
+.googlemap {height: 400px; width: auto;}
+
+.googlejumbotron {text-align: center;}
+
+.jumbotron {border-radius: 20px; 
+    background-color: rgba(174, 243, 240, 0.5); 
+    font-weight: bold; 
+    border: 1px solid gray;
+    box-shadow: 2px 2px gray;}
+
+.jumbotron h3 {text-align: center;}
+
+.btn{border-radius: 20px;}
+
+body {background-color: rgba(248, 245, 245, 0.5); 
+    font-family: 'Magra', sans-serif;}
+
+.allergytitle{text-align: center; margin: 10px; 
+    border-radius: 20px; 
+    background-color: rgba(174, 243, 240, 0.5);
+    font-weight: bold;
+    border: 1px solid gray;
+    box-shadow: 2px 2px gray;}
+
+.navcontainer {margin-top: 10px; 
+    margin-bottom: 20px; 
+    font-weight: bolder;}
+
+.nav-link , .active {border-radius: 20px; 
+    border: 1px solid gray; 
+    box-shadow: 2px 2px gray;}
+
+.active {background-color: rgba(243, 219, 174, 0.5);}
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.wrapper {
+    min-height: 73%;
+    margin-bottom: -50px;
+}
+
+.footer, .push {
+    height: 50px;
+}
+
+.btn a {color: white;}
+a {color:black;}
+
+.statementcolumn{text-align: center; 
+    margin-bottom: 20px;}
+
+.allergyfooter {
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(243, 219, 174, 0.5);
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: 1px solid gray;
+    box-shadow: 2px 2px gray;
+}
+
+.card{margin-bottom: 20px;}
+
+.card-body{text-align: center;}
+
+.doctorinfo{border-radius: 20px; 
+    border: 1px solid gray; 
+    box-shadow: 2px 2px gray;}
+
+body {
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 4s; /* Firefox < 16 */
+        -ms-animation: fadein 4s; /* Internet Explorer */
+         -o-animation: fadein 4s; /* Opera < 12.1 */
+            animation: fadein 4s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
