@@ -2,22 +2,22 @@
 
 .googlejumbotron {text-align: center;}
 
-.jumbotron {border-radius: 20px; 
-    background-color: rgba(174, 243, 240, 0.5); 
+.jumbotron {border-radius: 10px; 
+    background-color: rgba(174, 243, 240, 0.8); 
     font-weight: bold; 
     border: 1px solid gray;
     box-shadow: 2px 2px gray;}
 
 .jumbotron h3 {text-align: center;}
 
-.btn{border-radius: 20px;}
+.btn{border-radius: 10px;}
 
 body {background-color: rgba(255, 255, 255, 0.2); 
     font-family: 'Magra', sans-serif;}
 
 .allergytitle{text-align: center; margin: 10px; 
-    border-radius: 20px; 
-    background-color: rgba(174, 243, 240, 0.5);
+    border-radius: 10px; 
+    background-color: rgba(174, 243, 240, 0.8);
     font-weight: bold;
     border: 1px solid gray;
     box-shadow: 2px 2px gray;}
@@ -26,12 +26,12 @@ body {background-color: rgba(255, 255, 255, 0.2);
     margin-bottom: 20px; 
     font-weight: bolder;}
 
-.nav-link , .active {border-radius: 20px; 
+.nav-link , .active {border-radius: 10px; 
     border: 1px solid gray; 
     box-shadow: 2px 2px gray;
-    background-color: rgba(174, 243, 205, 0.5);}
+    background-color: rgba(174, 243, 205, 0.8);}
 
-.active {background-color: rgba(243, 219, 174, 0.5);}
+.active {background-color: rgba(243, 219, 174, 0.8);}
 
 
 html, body {
@@ -54,9 +54,9 @@ a {color:black;}
     margin-bottom: 20px;}
 
 .allergyfooter {
-    border-radius: 20px;
+    border-radius: 10px;
     text-align: center;
-    background-color: rgba(243, 219, 174, 0.5);
+    background-color: rgba(243, 219, 174, 0.8);
     padding: 5px;
     margin-left: 10px;
     margin-right: 10px;
@@ -69,7 +69,7 @@ a {color:black;}
 
 .card-body{text-align: center;}
 
-.doctorinfo{border-radius: 20px; 
+.doctorinfo{border-radius: 10px; 
     border: 1px solid gray; 
     box-shadow: 2px 2px gray;}
 
