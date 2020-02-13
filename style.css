@@ -3,7 +3,7 @@
 .googlejumbotron {text-align: center;}
 
 .jumbotron {border-radius: 10px; 
-    background-color: rgba(174, 243, 240, 0.8); 
+    background-color: rgb(174, 243, 240);
     font-weight: bold; 
     border: 1px solid gray;
     box-shadow: 2px 2px gray;}
@@ -12,12 +12,12 @@
 
 .btn{border-radius: 10px;}
 
-body {background-color: rgba(255, 255, 255, 0.2); 
+body {background-color: transparent;
     font-family: 'Magra', sans-serif;}
 
 .allergytitle{text-align: center; margin: 10px; 
     border-radius: 10px; 
-    background-color: rgba(174, 243, 240, 0.8);
+    background-color: rgb(174, 243, 240);
     font-weight: bold;
     border: 1px solid gray;
     box-shadow: 2px 2px gray;}
@@ -29,9 +29,21 @@ body {background-color: rgba(255, 255, 255, 0.2);
 .nav-link , .active {border-radius: 10px; 
     border: 1px solid gray; 
     box-shadow: 2px 2px gray;
-    background-color: rgba(174, 243, 205, 0.8);}
+    background-color: rgb(174, 243, 240);}
 
-.active {background-color: rgba(243, 219, 174, 0.8);}
+.active {background-color: rgb(245, 228, 197);}
+
+.allergyimages {
+    margin-bottom: 20px;
+}
+
+.homeoffice { 
+    background: url(./images/homeoffice.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 
 html, body {
@@ -50,13 +62,17 @@ html, body {
 .btn a {color: white;}
 a {color:black;}
 
-.statementcolumn{text-align: center; 
+.statementcolumn{text-align: center;
+    background-color: rgb(174, 243, 240);
+    border-radius: 10px;
+    border: 1px solid gray;
+    box-shadow: 2px 2px gray;
     margin-bottom: 20px;}
 
 .allergyfooter {
     border-radius: 10px;
     text-align: center;
-    background-color: rgba(243, 219, 174, 0.8);
+    background-color: rgb(245, 228, 197);
     padding: 5px;
     margin-left: 10px;
     margin-right: 10px;
@@ -68,6 +84,14 @@ a {color:black;}
 .card{margin-bottom: 20px;}
 
 .card-body{text-align: center;}
+
+.drprasad {border-radius: 10px;}
+.practiceone {border-radius: 10px;}
+.practicetwo {border-radius: 10px;}
+.generalinfo {border-radius: 10px;}
+
+.generalpiccol {margin: 0 auto; margin-bottom: 15px;}
+
 
 .doctorinfo{border-radius: 10px; 
     border: 1px solid gray; 
