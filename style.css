@@ -86,11 +86,14 @@ a {color:black;}
 .card-body{text-align: center;}
 
 .drprasad {border-radius: 10px;}
-.practiceone {border-radius: 10px;}
+.practiceone {border-radius: 10px; margin-bottom: 10px;}
 .practicetwo {border-radius: 10px;}
 .generalinfo {border-radius: 10px;}
 
-.generalpiccol {margin: 0 auto; margin-bottom: 15px;}
+.officehours {padding: 5px;}
+.phonenumbers {padding: 50px;}
+
+.generalpiccol {margin: 0 auto; margin-bottom: 30px;}
 
 
 .doctorinfo{border-radius: 10px; 
