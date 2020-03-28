@@ -69,6 +69,15 @@ a {color:black;}
     box-shadow: 2px 2px gray;
     margin-bottom: 20px;}
 
+.covidcolumn {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid gray;
+    box-shadow: 2px 2px gray;
+    margin-bottom: 20px;
+}
+
 .allergyfooter {
     border-radius: 10px;
     text-align: center;
